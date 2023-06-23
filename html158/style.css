@@ -1,0 +1,22 @@
+.btn{
+    background:#419083;
+    width: 200px;
+    height: 90%;
+   padding: 20px;
+    margin: 0 auto;
+}
+button{padding: 10px;
+color: aliceblue; 
+    background: #367e57;
+    padding: 5px;
+    border-radius: 2px;
+    border:none;
+    width: 100%;
+}
+button:hover{
+    color: rgb(0, 0, 0); 
+        background: #ffffff;
+        padding: 5px;
+        border-radius: 2px;
+        box-shadow: 2px 3px 13px 3px rgb(49, 255, 152);;   
+    }
